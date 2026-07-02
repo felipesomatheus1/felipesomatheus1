@@ -50,7 +50,7 @@ Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitet
 
 - Atuando com marketing digital há 2 anos, usando programação para análise de público e estratégias de venda online
 - Aprimorando projetos pessoais e acadêmicos para fortalecer minha base em desenvolvimento de sistemas
-- Estudando Sistemas de Informação
+- Cursando Sistemas de Informação
 
 
 ---
