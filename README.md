@@ -9,7 +9,7 @@
 
 ## 🙋 Sobre mim
 
-Sou estudante de Sistemas de Informação e busco uma oportunidade de estágio ou vaga júnior na área de Tecnologia da Informação. Tenho interesse em desenvolvimento de sistemas, backend, banco de dados, APIs REST e análise de dados.
+Sou estudante de Sistemas de Informação e busco uma oportunidade de estágio ou vaga júnior na área de Tecnologia da Informação. Tenho interesse em desenvolvimento de sistemas, backend, banco de dados e análise de dados.
 
 Nos últimos 2 anos, atuei com marketing digital utilizando programação para apoiar pesquisas de mercado, análise de público e estratégias de venda de produtos online. Desenvolvi projetos em Python para coleta, organização e interpretação de dados de comunidades digitais.
 
