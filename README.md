@@ -1,13 +1,13 @@
-# Olá! Eu sou Felipe Matheus 👋
+# Olá! Eu sou Felipe Matheus 
 
-💻 Desenvolvedor de software
+ Desenvolvedor de software
 
-🎓 Estudante de Sistemas de Informação
+ Estudante de Sistemas de Informação
 
 
 ---
 
-## 🙋 Sobre mim
+## Sobre mim
 
 Sou estudante de Sistemas de Informação e busco uma oportunidade de estágio ou vaga júnior na área de Tecnologia da Informação. Tenho interesse em desenvolvimento de sistemas, backend, banco de dados e análise de dados.
 
@@ -17,7 +17,7 @@ Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitet
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@ Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitet
 
 ---
 
-## 🚀 Atualmente
+## Atualmente
 
 - Atuando com marketing digital há 2 anos, usando programação para análise de público e estratégias de venda online
 - Aprimorando projetos pessoais e acadêmicos para fortalecer minha base em desenvolvimento de sistemas
@@ -48,7 +48,7 @@ Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitet
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![Email](https://img.shields.io/badge/Email-felipesomatheus1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipesomatheus1@gmail.com)
 
