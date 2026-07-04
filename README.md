@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe Matheus 👋
 
-💻 Software Developer
+💻 Desenvolvedor de software
 
 🎓 Estudante de Sistemas de Informação
 
@@ -13,7 +13,7 @@ Sou estudante de Sistemas de Informação e busco uma oportunidade de estágio o
 
 Nos últimos 2 anos, atuei com marketing digital utilizando programação para apoiar pesquisas de mercado, análise de público e estratégias de venda de produtos online. Desenvolvi projetos em Python para coleta, organização e interpretação de dados de comunidades digitais.
 
-Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitetura em camadas, regras de negócio e desenvolvimento colaborativo. Estou em constante evolução, buscando aplicar tecnologia em problemas reais com organização, raciocínio analítico e vontade de aprender.
+Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitetura em camadas, regras de negócio e desenvolvimento colaborativo. Estou em constante evolução, buscando aplicar tecnologia em problemas reais com organização.
 
 ---
 
@@ -34,13 +34,6 @@ Também desenvolvo projetos acadêmicos e pessoais com foco em backend, arquitet
 ![CRUD](https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge)
 ![Monolito Modular](https://img.shields.io/badge/Monolito%20Modular-455A64?style=for-the-badge)
-
----
-
-## 📊 Estatísticas GitHub
-
-
-![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipesomatheus1&theme=github_dark)
 
 ---
 
