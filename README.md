@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe Matheus!
 
- Desenvolvedor de software
+ Desenvolvedor
 
  Estudante de Sistemas de Informação
 
